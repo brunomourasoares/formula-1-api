@@ -1,0 +1,128 @@
+[
+	{
+		"id": 1,
+		"name": "Kimi Räikkönen",
+		"birthday": "17/10/1979",
+		"country": "Finland",
+		"team": "Alfa Romeo Racing"
+	},
+	{
+		"id": 2,
+		"name": "Zhou Guanyu",
+		"birthday": "30/05/1999",
+		"country": "China",
+		"team": "Alfa Romeo Racing"
+	},
+	{
+		"id": 3,
+		"name": "Charles Leclerc",
+		"birthday": "16/10/1997",
+		"country": "Monaco",
+		"team": "Ferrari"
+	},
+	{
+		"id": 4,
+		"name": "Carlos Sainz",
+		"birthday": "01/09/1994",
+		"country": "Spain",
+		"team": "Ferrari"
+	},
+	{
+		"id": 5,
+		"name": "Sebastian Vettel",
+		"birthday": "03/07/1987",
+		"country": "Germany",
+		"team": "Aston Martin"
+	},
+	{
+		"id": 6,
+		"name": "Lance Stroll",
+		"birthday": "29/10/1998",
+		"country": "Canada",
+		"team": "Aston Martin"
+	},
+	{
+		"id": 7,
+		"name": "Lando Norris",
+		"birthday": "13/11/1999",
+		"country": "United Kingdom",
+		"team": "McLaren"
+	},
+	{
+		"id": 8,
+		"name": "Daniel Ricciardo",
+		"birthday": "01/07/1989",
+		"country": "Australia",
+		"team": "McLaren"
+	},
+	{
+		"id": 9,
+		"name": "Esteban Ocon",
+		"birthday": "17/09/1996",
+		"country": "France",
+		"team": "Alpine"
+	},
+	{
+		"id": 10,
+		"name": "Fernando Alonso",
+		"birthday": "29/07/1981",
+		"country": "Spain",
+		"team": "Alpine"
+	},
+	{
+		"id": 11,
+		"name": "Nicholas Latifi",
+		"birthday": "29/06/1995",
+		"country": "Canada",
+		"team": "Williams"
+	},
+	{
+		"id": 12,
+		"name": "Alexander Albon",
+		"birthday": "23/03/1996",
+		"country": "Thailand",
+		"team": "Williams"
+	},
+	{
+		"id": 13,
+		"name": "Max Verstappen",
+		"birthday": "30/09/1997",
+		"country": "Netherlands",
+		"team": "Red Bull Racing"
+	},
+	{
+		"id": 14,
+		"name": "Sergio Perez",
+		"birthday": "26/01/1990",
+		"country": "Mexico",
+		"team": "Red Bull Racing"
+	},
+	{
+		"id": 15,
+		"name": "Lewis Hamilton",
+		"birthday": "07/01/1985",
+		"country": "United Kingdom",
+		"team": "Mercedes"
+	},
+	{
+		"id": 16,
+		"name": "George Russell",
+		"birthday": "15/02/1998",
+		"country": "United Kingdom",
+		"team": "Mercedes"
+	},
+	{
+		"id": 17,
+		"name": "Mick Schumacher",
+		"birthday": "22/03/1999",
+		"country": "Germany",
+		"team": "Haas F1 Team"
+	},
+	{
+		"id": 18,
+		"name": "Nikita Mazepin",
+		"birthday": "02/03/1999",
+		"country": "Russian",
+		"team": "Haas F1 Team"
+	}
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Scuderia Ferrari HP",
+        "powerUnit": "Ferrari 066/12",
+        "chassis": "SF-24",
+        "base": {
+            "city": "Maranello",
+            "state": "Emília-Romanha",
+            "country": "Italy"
+        },
+        "startDate": "21/05/1950",
+        "sponsors": {
+            "title": [
+                "HP Inc."
+            ],
+            "others": [
+                "Shell",
+                "VGW",
+                "Santander",
+                "PUMA",
+                "DXC Technology",
+                "Peroni Nastro Azzurro",
+                "Amazon Web Services",
+                "RICHARD MILLE",
+                "Philip Morris International",
+                "CEVA Logistics",
+                "Bitdefender",
+                "Genesys",
+                "Ray-Ban",
+                "ZCG",
+                "HCL Software",
+                "CELSIUS® Holdings, Inc.",
+                "Palantir",
+                "OMR (Officine Meccaniche Rezzatesi)",
+                "HARMAN",
+                "Bang & Olufsen",
+                "Ecopol",
+                "VistaJet",
+                "Riva Yacht",
+                "MAHLE",
+                "SKF",
+                "Pirelli",
+                "Bell Racing",
+                "Brembo",
+                "Armani Group",
+                "ManpowerGroup",
+                "Technogym",
+                "IVECO",
+                "NGK",
+                "Garrett Motion",
+                "Riedel Communications",
+                "Öhlins Racing",
+                "Sabelt"
+            ]
+        },
+        "owner": "Exor"
+    },
+    {
+        "id": 2,
+        "name": "Aston Martin Aramco F1 Team",
+        "powerUnit": "Mercedes-AMG F1 M15",
+        "chassis": "AMR24",
+        "base": {
+            "city": "Silverstone",
+            "state": "Northamptonshire",
+            "country": "United Kingdom"
+        },
+        "startDate": "31/05/1959",
+        "sponsors": {
+            "title": [
+                "Saudi Aramco"
+            ],
+            "others":[
+                "Cognizant",
+                "BOSS",
+                "Valvoline",
+                "NexGen Energy",
+                "Velocity Black",
+                "Citi",
+                "SentinelOne",
+                "Juniper Networks",
+                "Banco Master",
+                "JCB",
+                "NetApp",
+                "AvaTrade",
+                "ServiceNow",
+                "Regent Seven Seas Cruises",
+                "Girard-Perregaux",
+                "EPOS",
+                "Bombardier",
+                "Globe-Trotter",
+                "Wolfgang Puck",
+                "Pirelli",
+                "Financial Times",
+                "TikTok",
+                "OGIO",
+                "Oakley",
+                "OMP",
+                "Stilo",
+                "Stichd"
+            ]
+        },
+        "owner": "Lawrence Stroll"
+    },
+    {
+        "id": 3,
+        "name": "McLaren Formula 1 Team",
+        "powerUnit": "Mercedes-AMG F1 M15",
+        "chassis": "MCL38",
+        "base": {
+            "city": "Woking",
+            "state": "Surrey",
+            "country": "United Kingdom"
+        },
+        "startDate": "22/05/1966",
+        "sponsors": {
+            "title": [
+                ""
+            ],
+            "others": [
+                "OKX",
+                "Android",
+                "Chrome",
+                "British American Tobacco",
+                "Cisco",
+                "DP World",
+                "Dell Technologies",
+                "DARKTRACE",
+                "Monster Energy Drink",
+                "Arrow Eletronics",
+                "Jack Daniel's",
+                "salesforce",
+                "alteryx",
+                "Hilton",
+                "Estrella Galicia",
+                "Dropbox",
+                "Unilever",
+                "DeWALT",
+                "Goldman Sachs",
+                "workday",
+                "cadence",
+                "Coca-Cola",
+                "ECOLAB",
+                "Airwallex",
+                "webex cisco",
+                "Google Cloud",
+                "Deloitte",
+                "ebay",
+                "splunk",
+                "Optimun Nutrition",
+                "HALO ITSM",
+                "vmware",
+                "CNBC",
+                "RICHARD MILLE",
+                "udemy",
+                "TUMI",
+                "FxPro",
+                "smartsheet",
+                "New Era",
+                "Castore",
+                "K-SWISS",
+                "Medallia",
+                "REISS",
+                "FAI Aviation Group",
+                "Akzonobel Sikkens",
+                "Alpine Star",
+                "Ashurst",
+                "Pirelli",
+                "Stratasys",
+                "KAUST",
+                "LEGO",
+                "SunGod"
+            ]
+        },
+        "owner": "Mumtalakat Holding Company"
+    },
+    {
+        "id": 4,
+        "name": "BWT Alpine F1 Team",
+        "powerUnit": "Renault E-Tech RE24",
+        "chassis": "A524",
+        "base": {
+            "city": "Enstone",
+            "state": "Oxfordshire",
+            "country": "United Kingdom"
+        },
+        "startDate": "28/03/2021",
+        "sponsors": {
+            "title": [
+                "BWT AG"
+            ],
+            "others": [
+                "H. Moser & Cie.",
+                "Castrol",
+                "BP Ultimate",
+                "Renault E-Tech",
+                "Businessolver",
+                "Binance",
+                "Mobilize financial services",
+                "Microsoft",
+                "XBOX",
+                "MNTN",
+                "Amazon Music",
+                "Kappa",
+                "SPRINKLR",
+                "Qatar Airways",
+                "INFINOX",
+                "Banco BRB",
+                "Delphi",
+                "Canel’s",
+                "Eurodatacar",
+                "Shamir",
+                "Yahoo",
+                "Boeing",
+                "3D Systems",
+                "ALPINESTARS",
+                "HEXIS",
+                "Kway",
+                "JOHNSON HEALTH TECH (MATRIX)",
+                "Pirelli",
+                "ROLAND",
+                "TRAK RACER",
+                "Alpine Eyewear",
+                "GCAPS"
+            ]
+        },
+        "owner": "Renault"
+    },
+    {
+        "id": 5,
+        "name": "Williams Racing",
+        "powerUnit": "Mercedes-AMG F1 M15",
+        "chassis": "FW46",
+        "base": {
+            "city": "Grove",
+            "state": "Oxfordshire",
+            "country": "United Kingdom"
+        },
+        "startDate": "08/05/1977",
+        "sponsors": {
+            "title": [
+                ""
+            ],
+            "others": [
+                "KOMATSU",
+                "MYPROTEIN",
+                "Gulf",
+                "DURACELL",
+                "KRAKEN",
+                "Stephens",
+                "VAST",
+                "KEEPER",
+                "Michelob Ultra",
+                "Dorilton Ventures",
+                "The Ingenuity",
+                "Jumeirah",
+                "BROADCOM",
+                "PUMA",
+                "PURESTREAM",
+                "Pirelli",
+                "CREW CLOTHING",
+                "Life Fitness",
+                "Spinal Injuries Association"
+            ]
+        },
+        "owner": "Dorilton Capital"
+    },
+    {
+        "id": 6,
+        "name": "Red Bull Racing",
+        "powerUnit": "Honda RBPTH002",
+        "chassis": "RB20",
+        "base": {
+            "city": "Milton Keynes",
+            "state": "Buckinghamshire",
+            "country": "United Kingdom"
+        },
+        "startDate": "06/03/2005",
+        "sponsors": {
+            "title": [
+                "Oracle"
+            ],
+            "others": [
+                "Hard Rock",
+                "Tag Heuler",
+                "Rokt",
+                "Telcel",
+                "Mobil1",
+                "Mobil Racing Fuel",
+                "BYBIT",
+                "Honda",
+                "Visa",
+                "Claro",
+                "Sui",
+                "Castore",
+                "RAUCH",
+                "HP/Poly",
+                "Blenders Eyewear",
+                "ArmorAll",
+                "CDW",
+                "Heineken",
+                "Artic Wolf",
+                "ZOOM",
+                "inter.mx",
+                "AT&T",
+                "SIEMENS",
+                "SPARCO",
+                "Pirelli",
+                "DMG MORI",
+                "APL",
+                "HEXAGON",
+                "New Era",
+                "BUILD FOR ATHLETES",
+                "PWR ACT",
+                "Ansys",
+                "Gold Standard",
+                "Pepe Jeans",
+                "PATRÓN TEQUILA",
+                "YETI",
+                "EA SPORTS"
+            ]
+        },
+        "owner": "Red Bull (Mark Mateschitz)"
+    },
+    {
+        "id": 7,
+        "name": "Visa Cash App RB F1 Team",
+        "powerUnit": "Honda RBPTH002",
+        "chassis": "VCARB 01",
+        "base": {
+            "city": "Faenza",
+            "state": "Emilia-Romagna",
+            "country": "Italy"
+        },
+        "startDate": "02/03/2024",
+        "sponsors": {
+            "title": [
+                "Visa",
+                "Cash App"
+            ],
+            "others": [
+                "Red Bull",
+                "ORLEN",
+                "Honda",
+                "HUGO",
+                "TUDOR",
+                "NEFT Vodka",
+                "BYBIT",
+                "XMTRADING",
+                "HUGO Eyewear",
+                "randstad",
+                "Pirelli",
+                "EPICOR",
+                "RAVENOL",
+                "Piquadro",
+                "P448",
+                "RIEDEL",
+                "SIEMENS",
+                "Roboze"
+            ]
+        },
+        "owner": "Red Bull (Mark Mateschitz)"
+    },
+    {
+        "id": 8,
+        "name": "Mercedes-AMG Petronas Formula One Team",
+        "powerUnit": "Mercedes-AMG F1 M15",
+        "chassis": "F1 W15",
+        "base": {
+            "city": "Brackley and Brixworth",
+            "state": "Northamptonshire",
+            "country": "United Kingdom"
+        },
+        "startDate": "04/07/1954",
+        "sponsors": {
+            "title": [
+                "PETRONAS"
+            ],
+            "others": [
+                "INEOS",
+                "Crowdstrike",
+                "Teamviewer",
+                "Snapdragon",
+                "Solera",
+                "UBS",
+                "G42",
+                "Hewlett Packard Enterprise",
+                "Akkodis",
+                "IWC Schaffhausen",
+                "Einhell",
+                "Nuvei",
+                "SAP",
+                "AMD",
+                "The Ritz-Carlton",
+                "WhatsApp",
+                "Tommy Hilfiger",
+                "Sherwin Williams",
+                "Luminar",
+                "PUMA",
+                "Police",
+                "Endless",
+                "Pirelli",
+                "BetterUp"
+            ]
+        },
+        "owner": "Torger Christian Wolff (Toto Wolff)"
+    },
+    {
+        "id": 9,
+        "name": "MoneyGram Haas F1 Team",
+        "powerUnit": "Ferrari 066/10",
+        "chassis": "VF-24",
+        "base": {
+            "city": "Kannapolis",
+            "state": "North Carolina",
+            "country": "United States"
+        },
+        "startDate": "20/03/2016",
+        "sponsor": {
+            "title": "MoneyGram",
+            "others": [
+                "Haas Automation",
+                "Play'n GO",
+                "Alpinestars",
+                "Chipotle",
+                "HaasTooling.com",
+                "Mercari",
+                "MGM Resorts International",
+                "New Era",
+                "Oakberry",
+                "Palm Angels",
+                "Pirelli",
+                "SCHUBERTH",
+                "Taittinger",
+                "TravisMathew",
+                "Tricorp Workwear"
+            ]
+        },
+        "owner": "Gene Haas"
+    },
+    {
+        "id": 10,
+        "name": "Stake F1 Team Kick Sauber",
+        "powerUnit": "Ferrari 066/12",
+        "chassis": "C44",
+        "base": {
+            "city": "Hinwil",
+            "state": "Zürich",
+            "country": "Switzerland"
+        },
+        "startDate": "14/03/1993",
+        "sponsor": {
+            "title": [
+                "Kick",
+                "Stake"
+            ],
+            "others": [
+                "Accelleron",
+                "Additive Industries",
+                "Agilis",
+                "Ambrosial",
+                "Beyond Nations",
+                "Brütsch-Rüegger",
+                "Camozzi",
+                "Cielo",
+                "Ciesse Piumini",
+                "Code Zero",
+                "Edelweiss AG",
+                "Everdome",
+                "Extreme Networks Ireland Ops, Ltd.",
+                "Ferrari Trento",
+                "Fix Network",
+                "GeorgFischer",
+                "GlobeAir",
+                "Hewlett Packard Enterprise",
+                "Hyland",
+                "JigSpace",
+                "Marelli",
+                "Mascot Workwear",
+                "MindMaze",
+                "Mitsubishi Electric",
+                "Pirelli",
+                "Puma",
+                "Riedel",
+                "Sabelt",
+                "Save The Children",
+                "Scania",
+                "SenseTime",
+                "Singha",
+                "Socios.com",
+                "Sunoco",
+                "Vibratech",
+                "Walter Meier",
+                "Web Eyewear",
+                "WhistlePig",
+                "Zero Petroleum"
+            ]
+        },
+        "owner": "Longbow Finance SA"
+    }
+]
